@@ -1,2 +1,2 @@
-/node-modules
-/langchain-venv
+frontend/node_modules/
+backend/langchain-venv/
